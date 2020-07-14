@@ -1,2 +1,2 @@
-# Portofolio-Website-HTML5
-Personal Portofolio website HTML5 code.
+# Portofolio-Website
+Personal Portofolio website with static HTML5 & CSS3 code.
